@@ -1,7 +1,9 @@
-# sites
- Paginas com Sites que fazem parte do meu estudo.
- Clicando no links abaixo voçê irá visita-los
- Todos pode sofrer mudanças conforme o projeto for retomado.
+<h1>Meus sites de Estudo</h1>
 
- <a href="https://kriegerhammer.github.io/sites/android/"> Site sobre a criação do mascote do Android (estudo do Curso em Video)</a>
- <a href="https://kriegerhammer.github.io/sites/cordel/"> Site sobre com uma poesia de cordel (estudo do Curso em Video)</a>
+
+ Paginas com Sites que fazem parte do meu estudo.<br>
+ Clicando no links abaixo voçê irá visita-los <br>
+ Todos pode sofrer mudanças conforme o projeto for retomado. <br>
+
+ <p><a href="https://kriegerhammer.github.io/sites/android/"> Site sobre a criação do mascote do Android (estudo do Curso em Video)</a></p>
+ <p><a href="https://kriegerhammer.github.io/sites/cordel/"> Site sobre com uma poesia de cordel (estudo do Curso em Video)</a></p>
